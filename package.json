@@ -1,15 +1,13 @@
 {
-  "name": "large-dropdown",
+  "name": "3d-dropdown",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A rotatable and expandable 3D Dropdown",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Tomas Töws",
+  "license": "No license",
   "devDependencies": {
     "parcel-bundler": "^1.12.3",
     "sass": "^1.21.0"
