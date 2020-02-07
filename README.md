@@ -2,4 +2,4 @@
 A rotatable and expandable 3D Dropdown
 
 # Live Demo
-https://3d-dropdown.netlify.com/
+https://www.projects.tomastoews.de/3ddropdown
