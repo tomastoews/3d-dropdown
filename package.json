@@ -4,11 +4,10 @@
   "description": "A rotatable and expandable 3D Dropdown",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html",
-    "build-and-deploy": "rm -r -f -v dist/ && parcel build src/index.html && node rewriteURLs.js && ./deploy.sh"
+    "build": "parcel build src/index.html"
   },
   "author": "Tomas Töws",
-  "license": "No license",
+  "license": "UNLICENSED",
   "devDependencies": {
     "autoprefixer": "^9.7.1",
     "parcel-bundler": "^1.12.4",
